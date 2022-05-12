@@ -1,4 +1,4 @@
-##Google Trend Data
+## Google Trend Data
 12 month Google trends data graph for 'ZIPAIR' keyword, for use in google data studio reports.
 Live site: https://jielongjp.github.io/zipair-trends-data/
 
